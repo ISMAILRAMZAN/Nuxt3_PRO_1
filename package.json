@@ -14,7 +14,6 @@
     "vfonts": "^0.0.3"
   },
   "dependencies": {
-    // "unplugin-vue-components": "^0.22.9" ya use kia for nave-ui karna ka lia
     "unplugin-vue-components": "^0.22.9"
   }
 }
